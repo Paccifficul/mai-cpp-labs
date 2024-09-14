@@ -1,0 +1,10 @@
+^C:\SOMEBODY ONCE TOLD ME\PRIVATE\MAI\PROGRAMS\CC-\SEM3\MAIN-CPP-LABS\LAB1\BUILD\CMAKEFILES\2787A4BDBA629D15D1E0BFF6F8230A6E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1" "-BC:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/gtest.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

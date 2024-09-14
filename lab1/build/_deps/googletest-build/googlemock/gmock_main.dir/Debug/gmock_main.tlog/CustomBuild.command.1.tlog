@@ -1,0 +1,10 @@
+^C:\SOMEBODY ONCE TOLD ME\PRIVATE\MAI\PROGRAMS\CC-\SEM3\MAIN-CPP-LABS\LAB1\BUILD\_DEPS\GOOGLETEST-SRC\GOOGLEMOCK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1" "-BC:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build" --check-stamp-file "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-build/googlemock/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

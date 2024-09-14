@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/a69cf0465ce4bf027832f566b9f3ead7/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/a250be7dcbfd7e0b17575dff29e29ce4/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/7e8dcd4e8965908d41d5ff7e84b9cb80/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/7e8dcd4e8965908d41d5ff7e84b9cb80/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/7e8dcd4e8965908d41d5ff7e84b9cb80/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/7e8dcd4e8965908d41d5ff7e84b9cb80/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/7e8dcd4e8965908d41d5ff7e84b9cb80/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/7e8dcd4e8965908d41d5ff7e84b9cb80/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/7e8dcd4e8965908d41d5ff7e84b9cb80/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/CMakeFiles/7e8dcd4e8965908d41d5ff7e84b9cb80/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

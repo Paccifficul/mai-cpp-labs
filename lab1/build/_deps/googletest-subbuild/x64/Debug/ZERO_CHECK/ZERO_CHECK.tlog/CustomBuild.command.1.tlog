@@ -1,0 +1,10 @@
+^C:\SOMEBODY ONCE TOLD ME\PRIVATE\MAI\PROGRAMS\CC-\SEM3\MAIN-CPP-LABS\LAB1\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\A69CF0465CE4BF027832F566B9F3EAD7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild" "-BC:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Somebody once told me/Private/MAI/Programs/CC-/sem3/main-cpp-labs/lab1/build/_deps/googletest-subbuild/googletest-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

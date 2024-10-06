@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/6196a045fa1a5a110f0d2c1ed804cc80/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/2c084b6348ef859ee7c5b023e97817f3/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

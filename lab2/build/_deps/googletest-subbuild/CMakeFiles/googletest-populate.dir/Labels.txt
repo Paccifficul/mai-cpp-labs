@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/6196a045fa1a5a110f0d2c1ed804cc80/googletest-populate.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/2c084b6348ef859ee7c5b023e97817f3/googletest-populate-complete.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-build.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-configure.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-download.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-install.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-mkdir.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-patch.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-test.rule
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab2/build/_deps/googletest-subbuild/CMakeFiles/514c9984d9f9c859ea6d159975101594/googletest-populate-update.rule

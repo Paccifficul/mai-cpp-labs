@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Somebody once told me\Private\MAI\labs\2 year\term3\OOP\main-cpp-labs\lab3\src\array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Somebody once told me\Private\MAI\labs\2 year\term3\OOP\main-cpp-labs\lab3\src\coordinate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Somebody once told me\Private\MAI\labs\2 year\term3\OOP\main-cpp-labs\lab3\src\hexagon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Somebody once told me\Private\MAI\labs\2 year\term3\OOP\main-cpp-labs\lab3\src\octagon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Somebody once told me\Private\MAI\labs\2 year\term3\OOP\main-cpp-labs\lab3\src\pentagon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Somebody once told me\Private\MAI\labs\2 year\term3\OOP\main-cpp-labs\lab3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B6E7F39F-EE1D-3424-B6AF-3C750355FAAC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab3/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab3/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Somebody once told me/Private/MAI/labs/2 year/term3/OOP/main-cpp-labs/lab3/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
